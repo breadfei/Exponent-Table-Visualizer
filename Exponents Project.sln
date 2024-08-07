@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponents Project", "Exponents Project.csproj", "{B619BD0B-D5B3-4297-838B-153DD2808EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B619BD0B-D5B3-4297-838B-153DD2808EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B619BD0B-D5B3-4297-838B-153DD2808EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B619BD0B-D5B3-4297-838B-153DD2808EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B619BD0B-D5B3-4297-838B-153DD2808EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4FD7377-1138-40E4-B171-3D0369817E8F}
+	EndGlobalSection
+EndGlobal
